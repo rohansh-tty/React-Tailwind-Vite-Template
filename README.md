@@ -21,5 +21,5 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 
 Create a new project from this template by clicking the "Use this template" button:
 
-![](assets/template-usage.png)
+![](assets/template.png)
 
