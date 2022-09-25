@@ -1,6 +1,6 @@
-# vite React TypeScript tailwindcss starter
+# React Project Starter Template Kit
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
+Built using Vite, Typescript & Tailwindcss
 
 ## About
 
